@@ -1,3 +1,4 @@
+# Learn how to learn
 - The first brief --> [here](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
 - The second brief --> [here](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
 - The basis for the first brief --> [here](https://code.s3.yandex.net/Interactive-textbook/AS-frontend/zip/sprint-1__startkit.zip)
